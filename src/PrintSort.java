@@ -13,6 +13,7 @@ public class PrintSort {
             if(list.contains(number)){
                 continue;
             }
+
             list.add(number);
         }
         scanner.close();
